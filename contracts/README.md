@@ -24,7 +24,7 @@ Technical Descirption
 •	Approve credits entered by the creditholders, which is certified by the verifiers.
 •	Mint the gequi token.
 •	Make the gequi token transferrable and burnable.
-3.	certification.sol: Creates an ERC721 token (NFT) as a badge of successful burning gequi tokens, representing offsetting inequality in the organization.
-•	Mint an ERC721 token for every 20 gequi tokens burnt.
+3.	certification.sol: Creates an ERC721 token (NFT) as a badge of successful earning of gequi tokens, representing offsetting inequality in the organization.
+•	Mint an ERC721 token for every successful clearing of credit.
 
 
