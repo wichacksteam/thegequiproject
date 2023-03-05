@@ -1,4 +1,4 @@
-# Carbon-Project
+# Gequi-Project
 
 Summary
 
