@@ -5,9 +5,6 @@ Summary
 We aim to create a Gender Equality(gequi) Credit Ecosystem on the Ethereum blockchain to bring more liquidity, transparency, accessibility, and standardization to gender equality in industries. This ecosystem includes all stakeholders, a tokenization mechanism with clear minting and burning protocols (ERC20), a transparent distribution of tokens. We also issue a gender equality certificate as an Ethereum-based non-fungible token (NFTs) as an incentive for companies and individuals that successfully use the gequi credit and verify it.
 
 
-Background
-
-Climate change and global warming are the significant challenges of the new century. Kyoto protocol (1997) regards the market mechanism as a way to solve the greenhouse gas emission reduction problem. In this view, the carbon dioxide emission is considered a commodity, forming a carbon trading system. According to the United Nations, carbon offsetting is particularly crucial for meeting the Paris Climate Agreement’s goal. There have been efforts to mitigate this problem using a carbon tax or credit. Carbon offsetting allows companies and individuals to reduce carbon emissions by purchasing carbon credits from carbon reduction projects. These projects include planting new trees, avoiding deforestation, investment in renewable energy, carbon capture, and sequestration projects. However, there has not been a global adaptation of these ideas, mainly due to a lack of transparency on issuance, usage, and life cycle of carbon credits. 
 
 Project Description
 
